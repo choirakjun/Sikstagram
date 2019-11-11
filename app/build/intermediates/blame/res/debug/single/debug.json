@@ -336,6 +336,10 @@
         "source": "C:\\Users\\RAK_JUN\\.gradle\\caches\\transforms-2\\files-2.1\\face7fcf7963d093ab35106d5bb41ddd\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\RAK_JUN\\Desktop\\Sikstagram-onlySocial (1)\\Sikstagram-onlySocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_comments.xml.flat",
+        "source": "C:\\Users\\RAK_JUN\\Desktop\\Sikstagram-onlySocial (1)\\Sikstagram-onlySocial\\app\\src\\main\\res\\layout\\activity_comments.xml"
+    },
+    {
         "merged": "C:\\Users\\RAK_JUN\\Desktop\\Sikstagram-onlySocial (1)\\Sikstagram-onlySocial\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation.xml.flat",
         "source": "C:\\Users\\RAK_JUN\\Desktop\\Sikstagram-onlySocial (1)\\Sikstagram-onlySocial\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
     },
@@ -2294,6 +2298,10 @@
     {
         "merged": "C:\\Users\\RAK_JUN\\Desktop\\Sikstagram-onlySocial (1)\\Sikstagram-onlySocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\RAK_JUN\\.gradle\\caches\\transforms-2\\files-2.1\\face7fcf7963d093ab35106d5bb41ddd\\appcompat-1.0.2\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\RAK_JUN\\Desktop\\Sikstagram-onlySocial (1)\\Sikstagram-onlySocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_comment_item.xml.flat",
+        "source": "C:\\Users\\RAK_JUN\\Desktop\\Sikstagram-onlySocial (1)\\Sikstagram-onlySocial\\app\\src\\main\\res\\layout\\comment_item.xml"
     },
     {
         "merged": "C:\\Users\\RAK_JUN\\Desktop\\Sikstagram-onlySocial (1)\\Sikstagram-onlySocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",

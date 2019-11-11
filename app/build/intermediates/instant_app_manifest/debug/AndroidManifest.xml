@@ -40,6 +40,7 @@
             android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
             android:theme="@style/Base.Theme.AppCompat" />
         <activity android:name="com.example.sikstagram.RegisterActivity" />
+        <activity android:name="com.example.sikstagram.CommentsActivity" />
         <activity android:name="com.example.sikstagram.LoginActivity" />
         <activity android:name="com.example.sikstagram.StartActivity" >
             <intent-filter>

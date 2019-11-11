@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\bac26bab6ca39e60fb650ab1e2a752e9\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\1f4cd9853975f3db93394f2429d2cc9e\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\face7fcf7963d093ab35106d5bb41ddd\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
@@ -67,20 +67,20 @@ MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\User
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\eb185daf716c8fa5000869207f1b252d\firebase-analytics-license-11.8.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\976b910d93d505fe7abb02e0fe6ff6f4\firebase-analytics-impl-license-11.8.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\81a25f747bb9d404951ffa54cf7b5f07\firebase-iid-license-11.8.0\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:2:11-69
@@ -93,7 +93,7 @@ ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySoc
 	android:name
 		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:6:22-77
 application
-ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:8:5-28:19
+ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:8:5-29:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\bac26bab6ca39e60fb650ab1e2a752e9\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\bac26bab6ca39e60fb650ab1e2a752e9\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:22:5-30:19
@@ -182,24 +182,28 @@ activity#com.example.sikstagram.RegisterActivity
 ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:19:9-54
 	android:name
 		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:19:19-51
-activity#com.example.sikstagram.LoginActivity
-ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:20:9-51
+activity#com.example.sikstagram.CommentsActivity
+ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:20:9-53
 	android:name
-		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:20:19-48
-activity#com.example.sikstagram.StartActivity
-ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:21:9-27:20
+		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:20:19-51
+activity#com.example.sikstagram.LoginActivity
+ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:21:9-51
 	android:name
 		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:21:19-48
+activity#com.example.sikstagram.StartActivity
+ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:22:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:26:27-74
 uses-sdk
 INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml

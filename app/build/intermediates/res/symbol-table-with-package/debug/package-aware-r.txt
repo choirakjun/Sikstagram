@@ -1154,6 +1154,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id add_comment
 id adjust_height
 id adjust_width
 id alertTitle
@@ -1432,11 +1433,13 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_comments
 layout activity_login
 layout activity_main
 layout activity_post
 layout activity_register
 layout activity_start
+layout comment_item
 layout crop_image_activity
 layout crop_image_view
 layout design_bottom_navigation_item

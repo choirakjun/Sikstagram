@@ -1,6 +1,7 @@
 package com.example.sikstagram.Adpter;
 
 import android.content.Context;
+import android.content.Intent;
 import android.media.Image;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -13,6 +14,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
+import com.example.sikstagram.CommentsActivity;
 import com.example.sikstagram.Model.Post;
 import com.example.sikstagram.Model.User;
 import com.example.sikstagram.R;
@@ -72,22 +74,44 @@ public class PostAdapter extends  RecyclerView.Adapter<PostAdapter.ViewHolder>{
         publisherInfo(viewHolder.image_profile, viewHolder.username, viewHolder.publisher, post.getPublisher());
         isLikes(post.getPostid(),viewHolder.like);
         nrLikes(viewHolder.likes, post.getPostid());
-
+        getComments(post.getPostid(),viewHolder.comments);
 
         viewHolder.like.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view){
                 if(viewHolder.like.getTag().equals("like")){
                     FirebaseDatabase.getInstance().getReference().child("Likes").child(post.getPostid())
-                    .child(firebaseUser.getUid()).setValue(true);
+                            .child(firebaseUser.getUid()).setValue(true);
                 }
                 else{
                     FirebaseDatabase.getInstance().getReference().child("Likes").child(post.getPostid())
                             .child(firebaseUser.getUid()).removeValue();
                 }
             }
-                   });
+        });
 
+        viewHolder.comment.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view){
+                Intent intent = new Intent(mContext, CommentsActivity.class);
+                intent.putExtra("postid",post.getPostid());
+                intent.putExtra("publisherid",post.getPublisher());
+                mContext.startActivity(intent);
+
+
+            }
+        });
+        viewHolder.comments.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view){
+                Intent intent = new Intent(mContext, CommentsActivity.class);
+                intent.putExtra("postid",post.getPostid());
+                intent.putExtra("publisherid",post.getPublisher());
+                mContext.startActivity(intent);
+
+
+            }
+        });
     }
 
     @Override
@@ -117,6 +141,23 @@ public class PostAdapter extends  RecyclerView.Adapter<PostAdapter.ViewHolder>{
 
         }
     }
+
+    private void getComments(String postid, final TextView comments){
+        DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("Comments").child(postid);
+        reference.addValueEventListener(new ValueEventListener(){
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot){
+                comments.setText("View all "+dataSnapshot.getChildrenCount()+" Comments");
+            }
+            @Override
+            public void onCancelled(DatabaseError databaseError){
+
+            }
+        });
+
+
+    }
+
 
     //post에 좋아요 몇번 눌렀나 확인가능하다.
     private void isLikes(String postid, final ImageView imageView ){

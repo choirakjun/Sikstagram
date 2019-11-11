@@ -43,7 +43,7 @@
 24-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:32:22-76
 25
 26    <application
-26-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:8:5-28:19
+26-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:8:5-29:19
 27        android:allowBackup="true"
 27-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:9:9-35
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -75,147 +75,150 @@
 41        <activity android:name="com.example.sikstagram.RegisterActivity" />
 41-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:19:9-54
 41-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:19:19-51
-42        <activity android:name="com.example.sikstagram.LoginActivity" />
-42-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:20:9-51
-42-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:20:19-48
-43        <activity android:name="com.example.sikstagram.StartActivity" >
-43-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:21:9-27:20
+42        <activity android:name="com.example.sikstagram.CommentsActivity" />
+42-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:20:9-53
+42-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:20:19-51
+43        <activity android:name="com.example.sikstagram.LoginActivity" />
+43-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:21:9-51
 43-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:21:19-48
-44            <intent-filter>
-44-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:22:13-26:29
-45                <action android:name="android.intent.action.MAIN" />
-45-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:23:17-69
-45-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:23:25-66
-46
-47                <category android:name="android.intent.category.LAUNCHER" />
-47-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:25:17-77
-47-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:25:27-74
-48            </intent-filter>
-49        </activity>
-50        <activity
-50-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:23:9-29:75
-51            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-51-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:24:13-85
-52            android:excludeFromRecents="true"
-52-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:25:13-46
-53            android:exported="true"
-53-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:26:13-36
-54            android:launchMode="singleInstance"
-54-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:27:13-48
-55            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-55-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:28:13-102
-56            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-56-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:29:13-72
-57        <activity
-57-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\63ba5b76a06dc78cbe09cfa03f10d774\jetified-play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
-58            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-58-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\63ba5b76a06dc78cbe09cfa03f10d774\jetified-play-services-base-11.8.0\AndroidManifest.xml:24:13-79
-59            android:exported="false"
-59-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\63ba5b76a06dc78cbe09cfa03f10d774\jetified-play-services-base-11.8.0\AndroidManifest.xml:25:13-37
-60            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-60-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\63ba5b76a06dc78cbe09cfa03f10d774\jetified-play-services-base-11.8.0\AndroidManifest.xml:26:13-72
-61
-62        <receiver
-62-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:28:9-32:20
-63            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-63-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:29:13-85
-64            android:enabled="true"
-64-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:30:13-35
-65            android:exported="false" >
-65-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:31:13-37
-66        </receiver>
-67        <receiver
-67-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:33:9-41:20
-68            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
-68-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:34:13-100
-69            android:enabled="true"
-69-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:35:13-35
-70            android:exported="true"
-70-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:36:13-36
-71            android:permission="android.permission.INSTALL_PACKAGES" >
-71-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:37:13-69
-72            <intent-filter>
-72-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:38:13-40:29
-73                <action android:name="com.android.vending.INSTALL_REFERRER" />
-73-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:39:17-79
-73-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:39:25-76
-74            </intent-filter>
-75        </receiver>
-76
-77        <service
-77-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:43:9-46:40
-78            android:name="com.google.android.gms.measurement.AppMeasurementService"
-78-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:44:13-84
-79            android:enabled="true"
-79-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:45:13-35
-80            android:exported="false" />
-80-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:46:13-37
-81        <service
-81-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:47:9-51:72
-82            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-82-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:48:13-87
-83            android:enabled="true"
-83-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:49:13-35
-84            android:exported="false"
-84-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:50:13-37
-85            android:permission="android.permission.BIND_JOB_SERVICE" />
-85-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:51:13-69
-86
-87        <receiver
-87-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:35:9-44:20
-88            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-88-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:36:13-78
-89            android:exported="true"
-89-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:37:13-36
-90            android:permission="com.google.android.c2dm.permission.SEND" >
-90-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:38:13-73
-91            <intent-filter>
-91-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:39:13-43:29
-92                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-92-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:40:17-81
-92-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:40:25-78
-93
-94                <category android:name="com.example.sikstagram" />
-94-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:42:17-61
-94-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:42:27-58
-95            </intent-filter>
-96        </receiver>
-97        <!--
-98             FirebaseInstanceIdService performs security checks at runtime,
-99             no need for explicit permissions despite exported="true"
-100        -->
-101        <service
-101-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:50:9-56:19
-102            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
-102-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:51:13-77
-103            android:exported="true" >
-103-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:52:13-36
-104            <intent-filter android:priority="-500" >
-104-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:53:13-55:29
-104-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:53:28-51
-105                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-105-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:54:17-80
-105-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:54:25-77
-106            </intent-filter>
-107        </service>
-108
-109        <provider
-109-->[com.google.firebase:firebase-common:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\99cc9bc7897642054f02243b69397e77\jetified-firebase-common-11.8.0\AndroidManifest.xml:8:9-12:39
-110            android:name="com.google.firebase.provider.FirebaseInitProvider"
-110-->[com.google.firebase:firebase-common:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\99cc9bc7897642054f02243b69397e77\jetified-firebase-common-11.8.0\AndroidManifest.xml:9:13-77
-111            android:authorities="com.example.sikstagram.firebaseinitprovider"
-111-->[com.google.firebase:firebase-common:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\99cc9bc7897642054f02243b69397e77\jetified-firebase-common-11.8.0\AndroidManifest.xml:10:13-72
-112            android:exported="false"
-112-->[com.google.firebase:firebase-common:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\99cc9bc7897642054f02243b69397e77\jetified-firebase-common-11.8.0\AndroidManifest.xml:11:13-37
-113            android:initOrder="100" />
-113-->[com.google.firebase:firebase-common:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\99cc9bc7897642054f02243b69397e77\jetified-firebase-common-11.8.0\AndroidManifest.xml:12:13-36
-114
-115        <meta-data
-115-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\c075f2b49b293e3b43e7359add261a08\jetified-play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
-116            android:name="com.google.android.gms.version"
-116-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\c075f2b49b293e3b43e7359add261a08\jetified-play-services-basement-11.8.0\AndroidManifest.xml:24:13-58
-117            android:value="@integer/google_play_services_version" />
-117-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\c075f2b49b293e3b43e7359add261a08\jetified-play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
-118    </application>
-119
-120</manifest>
+44        <activity android:name="com.example.sikstagram.StartActivity" >
+44-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:22:9-28:20
+44-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:22:19-48
+45            <intent-filter>
+45-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:23:13-27:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:24:17-69
+46-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:24:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:26:17-77
+48-->C:\Users\RAK_JUN\Desktop\Sikstagram-onlySocial (1)\Sikstagram-onlySocial\app\src\main\AndroidManifest.xml:26:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:23:9-29:75
+52            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+52-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:24:13-85
+53            android:excludeFromRecents="true"
+53-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:25:13-46
+54            android:exported="true"
+54-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:26:13-36
+55            android:launchMode="singleInstance"
+55-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:27:13-48
+56            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+56-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:28:13-102
+57            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+57-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\001a4944f07e6987aa5c747d0ed6c562\jetified-firebase-auth-11.8.0\AndroidManifest.xml:29:13-72
+58        <activity
+58-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\63ba5b76a06dc78cbe09cfa03f10d774\jetified-play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+59            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+59-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\63ba5b76a06dc78cbe09cfa03f10d774\jetified-play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+60            android:exported="false"
+60-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\63ba5b76a06dc78cbe09cfa03f10d774\jetified-play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+61            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+61-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\63ba5b76a06dc78cbe09cfa03f10d774\jetified-play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+62
+63        <receiver
+63-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:28:9-32:20
+64            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+64-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:29:13-85
+65            android:enabled="true"
+65-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:30:13-35
+66            android:exported="false" >
+66-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:31:13-37
+67        </receiver>
+68        <receiver
+68-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:33:9-41:20
+69            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+69-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:34:13-100
+70            android:enabled="true"
+70-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:35:13-35
+71            android:exported="true"
+71-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:36:13-36
+72            android:permission="android.permission.INSTALL_PACKAGES" >
+72-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:37:13-69
+73            <intent-filter>
+73-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:38:13-40:29
+74                <action android:name="com.android.vending.INSTALL_REFERRER" />
+74-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:39:17-79
+74-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:39:25-76
+75            </intent-filter>
+76        </receiver>
+77
+78        <service
+78-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:43:9-46:40
+79            android:name="com.google.android.gms.measurement.AppMeasurementService"
+79-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:44:13-84
+80            android:enabled="true"
+80-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:45:13-35
+81            android:exported="false" />
+81-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:46:13-37
+82        <service
+82-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:47:9-51:72
+83            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+83-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:48:13-87
+84            android:enabled="true"
+84-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:49:13-35
+85            android:exported="false"
+85-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:50:13-37
+86            android:permission="android.permission.BIND_JOB_SERVICE" />
+86-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\384dc1c5c68c413d88e8cea93808a077\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:51:13-69
+87
+88        <receiver
+88-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:35:9-44:20
+89            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+89-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:36:13-78
+90            android:exported="true"
+90-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:37:13-36
+91            android:permission="com.google.android.c2dm.permission.SEND" >
+91-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:38:13-73
+92            <intent-filter>
+92-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:39:13-43:29
+93                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+93-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:40:17-81
+93-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:40:25-78
+94
+95                <category android:name="com.example.sikstagram" />
+95-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:42:17-61
+95-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:42:27-58
+96            </intent-filter>
+97        </receiver>
+98        <!--
+99             FirebaseInstanceIdService performs security checks at runtime,
+100             no need for explicit permissions despite exported="true"
+101        -->
+102        <service
+102-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:50:9-56:19
+103            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+103-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:51:13-77
+104            android:exported="true" >
+104-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:52:13-36
+105            <intent-filter android:priority="-500" >
+105-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:53:13-55:29
+105-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:53:28-51
+106                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+106-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:54:17-80
+106-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\4e930f7bee009b57c435100bd4eab05e\jetified-firebase-iid-11.8.0\AndroidManifest.xml:54:25-77
+107            </intent-filter>
+108        </service>
+109
+110        <provider
+110-->[com.google.firebase:firebase-common:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\99cc9bc7897642054f02243b69397e77\jetified-firebase-common-11.8.0\AndroidManifest.xml:8:9-12:39
+111            android:name="com.google.firebase.provider.FirebaseInitProvider"
+111-->[com.google.firebase:firebase-common:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\99cc9bc7897642054f02243b69397e77\jetified-firebase-common-11.8.0\AndroidManifest.xml:9:13-77
+112            android:authorities="com.example.sikstagram.firebaseinitprovider"
+112-->[com.google.firebase:firebase-common:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\99cc9bc7897642054f02243b69397e77\jetified-firebase-common-11.8.0\AndroidManifest.xml:10:13-72
+113            android:exported="false"
+113-->[com.google.firebase:firebase-common:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\99cc9bc7897642054f02243b69397e77\jetified-firebase-common-11.8.0\AndroidManifest.xml:11:13-37
+114            android:initOrder="100" />
+114-->[com.google.firebase:firebase-common:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\99cc9bc7897642054f02243b69397e77\jetified-firebase-common-11.8.0\AndroidManifest.xml:12:13-36
+115
+116        <meta-data
+116-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\c075f2b49b293e3b43e7359add261a08\jetified-play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+117            android:name="com.google.android.gms.version"
+117-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\c075f2b49b293e3b43e7359add261a08\jetified-play-services-basement-11.8.0\AndroidManifest.xml:24:13-58
+118            android:value="@integer/google_play_services_version" />
+118-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAK_JUN\.gradle\caches\transforms-2\files-2.1\c075f2b49b293e3b43e7359add261a08\jetified-play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
+119    </application>
+120
+121</manifest>
